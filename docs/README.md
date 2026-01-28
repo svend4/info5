@@ -6,6 +6,11 @@ INFO5 - это методология и архитектура для авто�
 
 ## Содержание
 
+### Начало работы
+
+- 🚀 [Quick Start Guide](/docs/QUICK_START.md) - **Начните здесь!**
+- 🗺️ [Roadmap](/docs/ROADMAP.md) - План реализации проекта
+
 ### Основные концепции
 
 1. [Общая архитектура](/docs/architecture/overall-architecture.md)
@@ -20,7 +25,6 @@ INFO5 - это методология и архитектура для авто�
 ### Исследования
 
 - [Анализ существующих решений](/docs/research/existing-solutions.md)
-- [Обзор рынка автоматизации](/docs/research/market-overview.md)
 
 ### Практические примеры
 
