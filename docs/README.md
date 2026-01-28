@@ -22,15 +22,21 @@ INFO5 - это методология и архитектура для авто�
 - [Уровень 3: Кластеризация приложений](/docs/methodology/level-3-clustering.md)
 - [Уровень 2: Мини-агенты](/docs/methodology/level-2-mini-agents.md)
 
-### Исследования
+### Исследования и сравнения
 
 - [Анализ существующих решений](/docs/research/existing-solutions.md)
+- [Сравнение с альтернативами](/docs/COMPARISON.md)
 
 ### Практические примеры
 
 - [Примеры кластеров (Уровень 3)](/levels/level-3-clusters-examples.md)
 - [Примеры мини-агентов (Уровень 2)](/levels/level-2-agents-examples.md)
 - [Сценарии использования](/examples/use-cases.md)
+
+### Справочные материалы
+
+- ❓ [FAQ](/docs/FAQ.md) - Часто задаваемые вопросы
+- 📖 [Glossary](/docs/GLOSSARY.md) - Словарь терминов
 
 ## Быстрый старт
 
